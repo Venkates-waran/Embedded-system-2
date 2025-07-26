@@ -6,7 +6,7 @@
 
 *INTERN ID*:CT04DH1637
 
-*DOMAIN NAME*: embedded system
+*DOMAIN NAME*: Embedded system
 
 *DURATION*:4 WEEKS
 
